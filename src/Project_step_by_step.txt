@@ -1,0 +1,6 @@
+
+
+1. Install tailwind
+2. Install redux
+3. Install react-router-dom
+
